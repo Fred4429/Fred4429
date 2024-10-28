@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Fred4429
-- 👀 Je suis intéressé par le sport et la santé 
-- 🌱 Je me suis récemment formé en immobilier
-- 📫 Objectif: monter un projet personnel en ligne rentable, qui apporte un vrai plus dans l'utilisation client
+- 👋 Salut, je m'appelle Frédéric
+- 👀 Je suis intéressé par l'entrepreunariat
+- 🌱 J'ai été commercial pendant près de 10 ans dans le domaine du transport
+- 📫 Objectif: monter un projet personnel utilisant le traitement des données
 - ⚡ Fun fact: learn, test and repeat
-
-<!---
-Fred4429/Fred4429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
